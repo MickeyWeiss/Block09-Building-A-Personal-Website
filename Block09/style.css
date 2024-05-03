@@ -1,0 +1,37 @@
+header{
+    text-align: center;
+    background-color: salmon;
+    font-family:Arial, Helvetica, sans-serif
+}
+h1{
+    font-family: fantasy;
+}
+.img1{
+    width: 300px
+}
+.img2{
+    width: 300px;
+    float: right;
+    margin-top: 0px;
+    margin-right: 8px;
+}
+.img3{
+    width: 300px;
+}
+.img4{
+    width: 300px;
+    float: right;
+}
+h3{
+    display: inline-block
+}
+p{
+    display: inline-block
+}
+div{
+    margin-right: 310px;
+    padding: 150px;
+}
+.div2{
+    display: inline-block;
+}
