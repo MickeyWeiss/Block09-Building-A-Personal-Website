@@ -1,37 +1,40 @@
 header{
     text-align: center;
     background-color: salmon;
-    font-family:Arial, Helvetica, sans-serif
+    font-family:Arial, Helvetica, sans-serif;
+    padding-bottom: 1px;
+    padding-top: 1px;
 }
 h1{
     font-family: fantasy;
 }
 .img1{
-    width: 300px
-}
-.img2{
     width: 300px;
-    float: right;
-    margin-top: 0px;
-    margin-right: 8px;
-}
+    margin-top: 5px;
+    }
 .img3{
     width: 300px;
+    margin-top: 5px;
 }
 .img4{
     width: 300px;
     float: right;
 }
+.img5{
+    width: 300px;
+}
 h3{
-    display: inline-block
+    display: inline-block;
+    background-color: bisque;
 }
 p{
-    display: inline-block
-}
-div{
-    margin-right: 310px;
-    padding: 150px;
-}
-.div2{
     display: inline-block;
+}
+body{
+    border: double;
+    margin: 10px;
+    background-color: aquamarine;
+}
+section{
+    text-align: center;
 }
