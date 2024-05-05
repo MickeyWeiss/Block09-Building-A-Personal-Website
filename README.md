@@ -1,2 +1,3 @@
 # Block09-Building-A-Personal-Website
 Building a personal website utilizing HTML, CSS, and JavaScript
+This project is designed to encompass some of the skills I have learned in the first three weeks of the Fullstack Academy coding bootcamp. In this project there are three seperate HTML pages with a persistent header and links to each other. The styles on all three pages are governed by a single CSS file. Additionally, there is a JavaScript file with a consol.log (Hello World!") associated with all three pages. The content of all three pages is personalized and currently just a little bit fun. As my skills and education progress I intend to update these pages with more relevent career information as well as techniques that showcase my develping skills in coding.   
